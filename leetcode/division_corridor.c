@@ -15,7 +15,7 @@
  * The iteration runs by moving the surrounding values of the pseudobarrier
  * to give the effect of the barrier moving and changing values.
  *
- * CR, Shicheng Z, 14/12/25 
+ * CR, Shicheng Z, 20/12/25 
  * */
 #include <stdio.h>
 void main_algorithm () {
